@@ -17,4 +17,6 @@
      "src":[...] }]}
 ```
 Темы (`topic`): city, news, nature, art, recipe, quiz, holiday, selfcare, garden, design, joke, travel, music, movie, word.
+Иллюстрации (`art`): city, thread, eiffel, palette, film, sparkle, sun, turtle, owl, leaf, stars, comet, moon, pumpkin, pot, spoon, question, bread, wheat, breath, tulip, cup, heart, scale, cloud, rain, trophy, chart, dumbbell, wallet, fork, calendar, а также крупные картинки eye, pizza, donut, plate. Неизвестный ключ покажется как sparkle. Признак `"end":1` ставится на уровне слайда; последний слайд эпизода всегда считается финальным.
+
 Темы оформления (`theme`): violet, sunset, mint, peach, sky, sun, gold, night, berry, forest.

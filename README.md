@@ -16,7 +16,7 @@
                  "swatch":["#hex"]?, "end":1? }],
      "src":[...] }]}
 ```
-Темы (`topic`): city, news, nature, art, recipe, quiz, holiday, selfcare, garden, design, joke, travel, music, movie, word.
-Иллюстрации (`art`): city, thread, eiffel, palette, film, sparkle, sun, turtle, owl, leaf, stars, comet, moon, pumpkin, pot, spoon, question, bread, wheat, breath, tulip, cup, heart, scale, cloud, rain, trophy, chart, dumbbell, wallet, fork, calendar, а также крупные картинки eye, pizza, donut, plate. Неизвестный ключ покажется как sparkle. Признак `"end":1` ставится на уровне слайда; последний слайд эпизода всегда считается финальным.
+Темы (`topic`): city, news, nature, art, recipe, quiz, holiday, selfcare, garden, design, joke, travel, music, movie, photo, word.
+Иллюстрации (`art`): city, thread, eiffel, palette, film, sparkle, sun, turtle, owl, leaf, stars, comet, moon, pumpkin, pot, spoon, question, bread, wheat, breath, tulip, cup, heart, scale, cloud, rain, trophy, chart, dumbbell, wallet, fork, calendar, а также крупные картинки eye, pizza, donut, plate. Неизвестный ключ покажется как sparkle. Фон-фотография слайда: `"bg":"wiki:ru:Название_статьи"` (картинка статьи Википедии) или `"commons:Файл.jpg"`, подпись источника — `"cr"`. На таком слайде иллюстрация `art` не показывается, текст внизу поверх фото. Тема `photo` — красивые фотографии мест и природы. Признак `"end":1` ставится на уровне слайда; последний слайд эпизода всегда считается финальным.
 
 Темы оформления (`theme`): violet, sunset, mint, peach, sky, sun, gold, night, berry, forest.

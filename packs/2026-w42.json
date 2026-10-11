@@ -76,7 +76,8 @@
     "https://kudamoscow.ru/event/show/month/",
     "https://www.afisha.ru/msk/schedule_exhibition/na-oktyabr/",
     "https://allfest.ru/festivali-v-moskve/v-oktyabre"
-   ]
+   ],
+   "short": "Афиша"
   },
   {
    "id": "2026w42-goodnews",
@@ -125,7 +126,8 @@
    ],
    "src": [
     "https://www.goodnewsnetwork.org/"
-   ]
+   ],
+   "short": "Хорошее"
   },
   {
    "id": "2026w42-photo-russia",
@@ -162,6 +164,50 @@
      "cr": "Википедия",
      "end": 1
     }
+   ],
+   "short": "Места"
+  },
+  {
+   "id": "2026w42-memes",
+   "topic": "meme",
+   "title": "Мемы недели",
+   "short": "Мемы",
+   "theme": "violet",
+   "slides": [
+    {
+     "k": "Мем недели",
+     "t": "",
+     "meme": {
+      "img": "wiki:ru:Мона_Лиза",
+      "t": "Когда тренер сказал:",
+      "b": "«последний подход»"
+     }
+    },
+    {
+     "k": "Классика",
+     "t": "",
+     "meme": {
+      "img": "wiki:ru:Утро_в_сосновом_лесу",
+      "t": "Понедельник,",
+      "b": "третий будильник"
+     }
+    },
+    {
+     "k": "Из жизни",
+     "t": "",
+     "meme": {
+      "img": "wiki:ru:Охотники_на_привале",
+      "t": "Рассказываю,",
+      "b": "как присел сотку"
+     }
+    },
+    {
+     "k": "Мораль",
+     "t": "Улыбнулись?",
+     "s": "Значит, неделя уже удалась",
+     "art": "heart",
+     "end": 1
+    }
    ]
   },
   {
@@ -195,7 +241,8 @@
      "bg": "wiki:ru:Млечный_Путь",
      "cr": "Википедия"
     }
-   ]
+   ],
+   "short": "Звездопад"
   },
   {
    "id": "2026w42-art-levitan",
@@ -223,7 +270,8 @@
      "art": "sparkle",
      "end": 1
     }
-   ]
+   ],
+   "short": "Левитан"
   },
   {
    "id": "2026w42-recipe-pumpkin",
@@ -257,7 +305,8 @@
      "art": "sparkle",
      "end": 1
     }
-   ]
+   ],
+   "short": "Тыква"
   },
   {
    "id": "2026w42-quiz-autumn",
@@ -311,7 +360,8 @@
      },
      "end": 1
     }
-   ]
+   ],
+   "short": "Квиз"
   },
   {
    "id": "2026w42-bread-day",
@@ -349,7 +399,8 @@
      },
      "end": 1
     }
-   ]
+   ],
+   "short": "День хлеба"
   },
   {
    "id": "2026w42-selfcare-neck",
@@ -382,7 +433,8 @@
      "art": "sparkle",
      "end": 1
     }
-   ]
+   ],
+   "short": "Для шеи"
   },
   {
    "id": "2026w42-garden",
@@ -416,7 +468,8 @@
      "art": "sparkle",
      "end": 1
     }
-   ]
+   ],
+   "short": "Сад"
   },
   {
    "id": "2026w42-design-palette",
@@ -443,7 +496,8 @@
      ],
      "end": 1
     }
-   ]
+   ],
+   "short": "Палитра"
   },
   {
    "id": "2026w42-joke-plaid",
@@ -470,7 +524,8 @@
      "art": "heart",
      "end": 1
     }
-   ]
+   ],
+   "short": "Пледы"
   }
  ]
 }

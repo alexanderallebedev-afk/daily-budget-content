@@ -270,7 +270,33 @@
       ],
       "equip": [],
       "added": "2026-10-28",
-      "src": "https://www.acefitness.org/resources/everyone/exercise-library/"
+      "src": "https://www.acefitness.org/resources/everyone/exercise-library/",
+      "poses": [
+        {
+          "img": "Kneeling_Hip_Flexor",
+          "name": "Сгибатели бедра — выпад с опорой на колено",
+          "s": 40,
+          "lr": 1
+        },
+        {
+          "img": "Quad_Stretch",
+          "name": "Передняя поверхность бедра лёжа на боку",
+          "s": 30,
+          "lr": 1
+        },
+        {
+          "img": "Seated_Floor_Hamstring_Stretch",
+          "name": "Задняя поверхность бедра сидя",
+          "s": 40,
+          "lr": 1
+        },
+        {
+          "img": "Ankle_On_The_Knee",
+          "name": "Ягодицы — «четвёрка»",
+          "s": 40,
+          "lr": 1
+        }
+      ]
     },
     {
       "id": "calf-raise-db",
